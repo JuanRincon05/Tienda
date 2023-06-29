@@ -1,0 +1,28 @@
+{
+    "name": "kawschool/tienda-online",
+    "description": "creacion de una tienda online",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "juan esteban rincon",
+            "email": "juan.rincon-r@uniminuto.edu.co"
+        },
+        {
+            "name": "sergio andres benavides",
+            "email": "epinares@kawschool.com"
+        },
+        {
+            "name": "jhon stiven gonzalez",
+            "email": "epinares@kawschool.com"
+        }
+    ],
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "Kawschool\\":"src/"
+        }
+    }
+}
